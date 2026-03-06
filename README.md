@@ -1,5 +1,6 @@
 # E-Commerce-Sales-Performance-Analysis (Excel Project)
 📌 Project Overview
+
 This project focuses on analyzing an E-commerce sales dataset to extract meaningful business insights related to revenue generation, product performance, and operational efficiency.
 
 The objective of this analysis is to simulate how a data analyst would transform raw transactional data into actionable business insights using spreadsheet tools.
@@ -9,6 +10,7 @@ The analysis includes data preparation, feature engineering, aggregation, pivot 
 This project demonstrates core analytical skills using Microsoft Excel / Google Sheets.
 
 🎯 Business Problem
+
 An e-commerce company wants to better understand its sales performance across different products, regions, and sales representatives.
 
 Key questions addressed in this analysis:
@@ -19,6 +21,7 @@ Key questions addressed in this analysis:
 • How significant are high-value orders in overall revenue?
 
 📂 Dataset Overview
+
 The dataset contains order-level sales data including the following attributes:
 
 Column                         Description
@@ -34,6 +37,7 @@ Order Status   -       Status of the order (Shipped, Pending, Cancelled)
 The dataset represents typical transactional data used in e-commerce analytics.
 
 🛠 Tools & Skills Used
+
 • Microsoft Excel / Google Sheets
 • Excel formulas
 • Pivot Tables
@@ -42,6 +46,7 @@ The dataset represents typical transactional data used in e-commerce analytics.
 • Business Data Analysis
 
 ⚙️ Data Preparation & Feature Engineering
+
 -> To enrich the dataset for analysis, additional derived columns were created.
 • Total Revenue = Calculated revenue generated per order.
 • Total Revenue = Quantity × Unit Price 
@@ -57,6 +62,7 @@ Purpose of this classification:
 • Segment orders for deeper analysis
 
 📊 Key Business Metrics (KPIs)
+
 The following KPIs were calculated to evaluate sales performance:
 • Total Revenue (All Orders)
 • Completed Revenue (Shipped Orders)
@@ -105,6 +111,7 @@ Statuses analyzed:
 Purpose: Measure order fulfillment efficiency.
 
 🔎 Key Insights
+
 From the analysis, several important insights were identified:
 • Electronics category generates the highest revenue, indicating strong customer demand.
 • A majority of orders are successfully shipped, reflecting effective fulfillment processes.
@@ -113,19 +120,24 @@ From the analysis, several important insights were identified:
 • Sales performance varies among representatives, suggesting opportunities for performance optimization.
 
 💡 Business Recommendations
+
 Based on the analysis, the following recommendations can be made:
+
 1. Focus marketing efforts on high-performing product categories
 Categories generating the most revenue should receive increased promotional investment.
-2. Improve order fulfillment efficiency
+3. Improve order fulfillment efficiency
 Reducing pending orders could increase revenue realization.
-3. Replicate strategies of top-performing sales representatives
+4. Replicate strategies of top-performing sales representatives
 Best practices from high performers can be shared across the sales team.
-4. Expand operations in high-performing regions
+5. Expand operations in high-performing regions
 Regions generating higher revenue may present opportunities for further growth.
 
 📊 Dashboard
+
 An Excel dashboard was created to summarize key findings.
+
 The dashboard includes:
+
 • Revenue KPIs
 • Category revenue comparison
 • Order status distribution
@@ -153,7 +165,9 @@ Ecommerce-Sales-Analysis
 └── README.md
 
 🚀 Future Improvements
+
 Potential improvements to extend this analysis:
+
 • Perform deeper analysis using SQL
 • Create an interactive dashboard using Microsoft Power BI
 • Perform customer segmentation analysis
@@ -163,6 +177,7 @@ Potential improvements to extend this analysis:
 This project demonstrates how spreadsheet tools can be used to transform raw transactional data into meaningful insights.
 
 Key analytical techniques demonstrated in this project include:
+
 • Data preparation
 • Feature engineering
 • Pivot table analysis
@@ -171,8 +186,11 @@ Key analytical techniques demonstrated in this project include:
 • Business insight generation
 
 👤 Author
+
 Manish kumar Sinha
+
 Aspiring Data Analyst focused on developing skills in:
+
 • Data Analysis
 • Excel
 • SQL
