@@ -40,3 +40,6 @@ Order Status Distribution
 Product Category Performance
 
 Pivot tables were used to aggregate the data and create summary reports, while charts such as bar charts and pie charts were used to visually present insights.
+
+Author:Manish Kumar Sinha
+Connect with me Linkedin:https://www.linkedin.com/in/manishkumarsinha78/
